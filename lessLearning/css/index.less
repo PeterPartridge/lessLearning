@@ -1,0 +1,57 @@
+﻿@import "colors";
+@import "fonts";
+@import "borders";
+
+body
+{
+    background-color:darken(@fontColor, 10%)
+}
+
+h1
+{
+    font-size:@base-Fontsize + 1em;
+}
+
+div
+{
+    color:@fontColor;
+    font-family: @mainFont;
+    font-size:@base-Fontsize;
+    p
+{
+    color:spin(@fontColor, 50%);
+    font-size:@base-Fontsize *3.1em;
+    .solid-border(1em,@borderMain);
+    .roundedCornersAll(1em);
+}
+}
+
+
+nav
+{
+    font-size:@base-Fontsize;
+    font-weight:bold;
+    float:right;
+    ul
+    {
+        list-style-type:none;
+        li
+        {
+            float:left;
+            margin:.3em;
+            a
+                {
+                text-decoration:none;
+            }
+            &:hover
+            {
+                text-decoration:underline;
+                cursor:pointer;
+            }
+            &:active
+            {
+                color:@fontColor;
+            }
+        }
+    }
+}

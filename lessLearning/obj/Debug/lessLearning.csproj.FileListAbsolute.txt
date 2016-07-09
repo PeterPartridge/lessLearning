@@ -1,0 +1,6 @@
+c:\users\peterplay\documents\visual studio 2013\Projects\lessLearning\lessLearning\bin\lessLearning.dll.config
+c:\users\peterplay\documents\visual studio 2013\Projects\lessLearning\lessLearning\bin\lessLearning.dll
+c:\users\peterplay\documents\visual studio 2013\Projects\lessLearning\lessLearning\bin\lessLearning.pdb
+c:\users\peterplay\documents\visual studio 2013\Projects\lessLearning\lessLearning\obj\Debug\lessLearning.csprojResolveAssemblyReference.cache
+c:\users\peterplay\documents\visual studio 2013\Projects\lessLearning\lessLearning\obj\Debug\lessLearning.dll
+c:\users\peterplay\documents\visual studio 2013\Projects\lessLearning\lessLearning\obj\Debug\lessLearning.pdb
